@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Round 1 - Brown Sugar Cinnamon Vs Chocolate Fudge"
+title:  "Day 1 - Brown Sugar Cinnamon Vs Chocolate Fudge"
 date:   2020-04-06 21:45:00 -0400
 categories: poptarts
 ---
