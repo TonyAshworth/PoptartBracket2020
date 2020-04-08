@@ -21,4 +21,4 @@ Each day I will complete one pairing of pop-tarts which will be toasted (because
 
 This is a highly scientific excercise and I reserve the right to change any grading criteria at any time.
 
-![all the cherry poptarts](/assets/img/all-the-cherry.jpg)
+![all the cherry poptarts](~/assets/img/all-the-cherry.jpg)
