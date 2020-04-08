@@ -9,7 +9,7 @@ permalink: /submitted/
 
 ### {{current_image.basename}}
 
-  [![]({{ current_image.path }})]({{ "~" + current_image.path }})
+  [![]({{ site.baseurl }}{{ current_image.path }})]({{ site.baseurl }}{{ current_image.path }})
 
 ***
 

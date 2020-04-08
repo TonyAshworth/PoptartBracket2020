@@ -8,7 +8,7 @@ categories: poptarts
 ### Winner: Brown Sugar Cinnamon! 
 #### [shut up I know you’re saying duhhhhhhhh]
 
-![round 1 - 1 vs 15](~/assets/img/round-1--1-vs-15.jpg)
+![round 1 - 1 vs 15]({{ site.baseurl }}/assets/img/round-1--1-vs-15.jpg)
 
 #### Scoring of Chocolate Fudge:
  * **Middle**: tastes exactly like a fudge brownie which was delicious

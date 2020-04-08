@@ -7,7 +7,7 @@ categories: poptarts
 
 ### Winner: Wild Berry!
 
-![round 1 - 3 vs 13](~/assets/img/round-1--3-vs-13.jpg)
+![round 1 - 3 vs 13]({{ site.baseurl }}/assets/img/round-1--3-vs-13.jpg)
 
 #### Wild Berry scoring:
  * **Middle**: very very berry goo but mostly blueberry flavor? maybe? does blueberry just overwhelm everything else?
