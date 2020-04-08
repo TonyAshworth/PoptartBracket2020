@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   large shipment of cherry poptarts (128).  Her favorite flavor to be clear.  Then
   somewhere in her sugar induced state of euphoria she came up with this idea.
   This website is a documentary of the adventure she came up with.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/PoptartBracket2020" # the subpath of your site, e.g. /blog
+url: "tonyashworth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Tony_Ashworth
 github_username:  TonyAshworth
 
