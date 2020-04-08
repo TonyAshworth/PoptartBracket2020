@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Round 1 - Wild Berry Vs Pretzel Cinnamon Sugar"
+date:   2020-04-07 16:18:00 -0400
+categories: poptarts
+---
+
+### Winner: Wild Berry!
+
+![round 1 - 3 vs 13](/assets/img/round-1--3-vs-13.jpg)
+
+#### Wild Berry scoring:
+ * **Middle**: very very berry goo but mostly blueberry flavor? maybe? does blueberry just overwhelm everything else?
+ * **50/50**: tones down the goo factor which is good
+ * **Edges**: standard edges
+ * **Dealers Choice**: 50/50 the combo is needed for yumminess
+ * **Left Over**: edges
+ * **Hot Vs Cold**: actually is good on both! warm it’s fruity goo or it turns into fruit rollup consistency when cold.
+
+##### Pretzel Cinnamon Sugar scoring:
+ * **Middle**: exact same as BCS, very tiny bit of pretzel flavor but dont know I would notice on my own
+ * **50/50**: slightly less filling but you can taste more pretzel flavor now
+ * **Edges**: has no edges goo goes to the fold! less goo but still goo, it’s weirddddddd
+ * **Dealers Choice**: middle goo
+ * **Left Over**: edgy less goo bits, also this starts to flake as more time goes on
+ * **Hot Vs Cold**: must be hot. the cold just makes it taste like a warm soft pretzel that then dried out sad and alone on a pretzel rack
