@@ -6,7 +6,7 @@ categories: poptarts
 ---
 
 ### Winner: Cherry!
-**(Though blueberry put up a good fight)*
+*(Though blueberry put up a good fight)*
 
 ![round 1 - 7 vs 9]({{ site.baseurl }}/assets/img/round-1--7-vs-9.jpg)
 
