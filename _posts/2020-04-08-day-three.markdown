@@ -7,7 +7,7 @@ categories: poptarts
 
 ### Winner: Cinnamon Roll!
 
-![round 1 - 5 vs 11]({{ site.baseurl }}/assets/img/round-1--5-vs-11.jpg)
+![day 3]({{ site.baseurl }}/assets/img/rounds/day-3.jpg)
 
 #### Cinnamon Roll scoring:
  * **Middle**: very cinnamony, even more than BCS, though less frosting flavor! I thought I wouldnt like less frosting but it kinda works here.

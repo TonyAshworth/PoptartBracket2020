@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Day Five - Smores Vs Splits Sugar Cookie/Brownie Batter"
-date:   2020-04-09 ??:??:00 -0400
+date:   2020-04-09 17:56:00 -0400
 categories: poptarts
 ---
 
-### Winner: !
+### Winner: Smores!
 
-![round 1 - 2 vs 16]({{ site.baseurl }}/assets/img/round-1--2-vs-16.jpg)
+![day 5]({{ site.baseurl }}/assets/img/rounds/day-5.jpg)
 
 #### Smores scoring:
  * **Middle**: chocolate and something? kinda marshmallow fluff? mostly just sticky
