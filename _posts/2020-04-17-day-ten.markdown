@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Day Ten - Strawberry Milkshake Vs Blueberry"
+date:   2020-04-17 15:00:00 -0400
+categories: poptarts
+---
+
+### Winner: Blueberry!
+
+![day 10]({{ site.baseurl }}/assets/img/rounds/day-10.jpg)
+
+#### Strawberry Milkshake scoring:
+ * **Middle**: oh god the smell alone. the fear is huge, the sadness complete. I ate a bite. can I be done now?
+ * **50/50**: im cringing. legit my face is making terrible faces right now.
+ * **Edges**: never have I tried harder to miss both frosting AND filling
+ * **Dealers Choice**: I will pay you money to not continue eating this. name your price.
+ * **Left Over**: piles of money for you, that’s what’s left.
+ * **Hot Vs Cold**: cold is pink death.
+
+##### Blueberry scoring:
+ * **Middle**: hello bliss, thank you for coming to save my tastebuds
+ * **50/50**: here is joy and rapture with nice safe blueberry pie for me.
+ * **Edges**: ok it’s kinda boring yes but also its not pink. not pink is a win today.
+ * **Dealers Choice**: everything. all of it. FEED ME SEYMOUR!
+ * **Left Over**: do a little dance, eat a little poptart, have fun today woo! have fun today!
+ * **Hot Vs Cold**: I had to make myself wait and let it go cold. cold blueberry pie isn’t a favorite but also SO MUCH BETTER IT DOESN’T MATTER
