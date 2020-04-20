@@ -18,7 +18,7 @@ categories: poptarts
  * **Left Over**: nada, went 50/50 all the way to the end
  * **Hot Vs Cold**: blueberry flavor does diminish when cold and that kinda helps the intensity
 
-##### Cherry scoring:
+#### Cherry scoring:
  * **Middle**: oh cherry, here is joy and rapture
  * **50/50**: cherry pie time
  * **Edges**: standard

@@ -18,7 +18,7 @@ categories: poptarts
  * **Left Over**: vanilla death spiral.
  * **Hot Vs Cold**: the fact that you have managed to make me hate both sugar cookies and brownies is astonishing as I love these two desserts. and yet, you have accomplished this fact. GOOD FOR YOU KELLOGG’S. GOOD. FOR. YOU.
 
-##### Strawberry scoring:
+#### Strawberry scoring:
  * **Middle**: ok normally I think strawberry is too sweet but compared to the Poo River monstrosity this is your grandmother’s sugar free candy.
  * **50/50**: much more edge flavor here to drown the sweet strawberry flavor
  * **Edges**: standard. boring. life saving.
@@ -26,7 +26,7 @@ categories: poptarts
  * **Left Over**: nada. I ate it. I didn’t internally cry or externally scream WTF WOULD YOU MAKE THIS?! ergo delicious.
  * **Hot Vs Cold**: thank you for being born strawberry. please go tell all your other berry friends that I miss them at any temperature.
 
- ##### Judges Mouth Thoughts
+#### Judges Mouth Thoughts:
  * this tart was made by drunken keebler elves that also got into some quality cocaine or LSD I fear
  * I keep eating the middle!! WHY
  * determining the winner is easy right now. but put the splitz against the strawberry milkshake and WHO THE HELL KNOWS

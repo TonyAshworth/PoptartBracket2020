@@ -17,7 +17,7 @@ categories: poptarts
  * **Left Over**: piles of money for you, that’s what’s left.
  * **Hot Vs Cold**: cold is pink death.
 
-##### Blueberry scoring:
+#### Blueberry scoring:
  * **Middle**: hello bliss, thank you for coming to save my tastebuds
  * **50/50**: here is joy and rapture with nice safe blueberry pie for me.
  * **Edges**: ok it’s kinda boring yes but also its not pink. not pink is a win today.
