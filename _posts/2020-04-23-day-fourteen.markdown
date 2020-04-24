@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day Fourteen - Cinnamon Roll Vs Cherry"
-date:   2020-??-?? ??:??:00 -0400
+date:   2020-04-24 17:22:00 -0400
 categories: poptarts
 ---
 
