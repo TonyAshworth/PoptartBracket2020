@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day Twenty Four - Strawberry Vs Fruit Loops (wut?)"
-date:   2020-05-?? ??:??:00 -0400
+date:   2020-05-07 13:16:00 -0400
 categories: poptarts
 ---
 
@@ -27,4 +27,3 @@ Editor's note: The judges didn't want to eat apple cinnamon sugar so a random ch
  * **Dealers Choice**: ummmm do I have to?
  * **Left Over**: I decided I am an adult doing a poptart bracket and I get to make the rules. ergo I refuse to consume more. except one more bite to confirm it is terrible. bite BAM SOUR. confirmed terrible.
  * **Hot Vs Cold**: ok starts out better, less sweet so I feel safe but here it comessssssssss BAM SOUR. I do not remember fruit loops being sour and you are RUINING my childhood. how can poptarts ruin childhood?! they are childhood!
- 
