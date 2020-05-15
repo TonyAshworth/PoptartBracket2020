@@ -7,7 +7,7 @@ categories: poptarts
 
 ### Winner: Cinnamon Roll! (JK It's CHERRY!)
 
-![day 14]({{ site.baseurl }}/assets/img/rounds/day-17.jpg)
+![day 14]({{ site.baseurl }}/assets/img/rounds/day-14.jpg)
 
 #### Cinnamon Roll scoring:
  * **Middle**: nommmm warm gooey cinnamon roll. icing is delightful.
